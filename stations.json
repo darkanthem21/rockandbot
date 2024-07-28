@@ -1,0 +1,18 @@
+[
+  {
+    "name": "carolina",
+    "url": "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86?aid=53bc2bcae41e2d9c662e1ba7&pid=UHkddWQ6KfR1ElVLzonIU5yOCHs1who9&sid=BXabcbS7NaeWCYINDumQI0qXTMxX3I9x&uid=FiJNcZR25aOT6tegfomNY12iTNfk0caY&es=us-b4-p-e-cg11-audio.cdn.mdstrm.com&ote=1721864378937&ot=8H5hNXM47RkEVXaMsMQxDg&proto=https&pz=us&cP=128000&awCollectionId=53bc2bcae41e2d9c662e1ba7&liveId=637f68ddce4b1208597d8a86&listenerId=FiJNcZR25aOT6tegfomNY12iTNfk0caY"
+  },
+  {
+    "name": "galaxia",
+    "url": "https://rv3.denialstream.com/proxy/rgalaxia/stream"
+  },
+  {
+    "name": "fmdos",
+    "url": "https://26523.live.streamtheworld.com/FMDOSAAC.aac?csegid=12000&dist=fmdos_cl-web-live_streaming_play&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=300x250&gdpr=0&burst-time=15&sbmid=eefba541-6ba3-4cce-bec0-08bb6b2e91c6"
+  },
+  {
+    "name": "rockandpop",
+    "url": "https://27573.live.streamtheworld.com/ROCK_AND_POPAAC.aac?csegid=2000&dist=rockandpopchile-web-tod-permanente&tdsdk=js-2.9&swm=true&pname=TDSdk&pversion=2.9&banners=none&gdpr=0&burst-time=15&sbmid=170d7fb0-4e4c-4c5a-d025-857686ffe46b"
+  }
+]

@@ -1,2 +1,2 @@
 # rockandbot
-Bot de discord que transmite url-streams
+bot de discord que transmite url-streams
